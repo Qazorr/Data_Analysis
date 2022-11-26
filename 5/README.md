@@ -1,0 +1,1 @@
+Analysis of [People wiki](http://th-www.if.uj.edu.pl/~erichter/dydaktyka/Dydaktyka2022/DataScience-2022/index.html)
